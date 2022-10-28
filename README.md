@@ -4,7 +4,7 @@ A small utility application to convert android adb backup to tgz archive which c
 
 # How to use
 Download the application from release section on right side bar of this page.
-Drag your adb file on top of `adb2tgz.exe` or use following command in command line.
+Drag your adb file on top of `adb2tgz.exe` or use following command line in console.
     adb2tgz.exe {path to your adb backup file}
 
 Once the process is complete adb file will be renamed to tgz.
